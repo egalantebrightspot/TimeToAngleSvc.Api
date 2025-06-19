@@ -1,0 +1,6 @@
+@TimeToAngleSvc.Api_HostAddress = http://localhost:5115
+
+GET {{TimeToAngleSvc.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
